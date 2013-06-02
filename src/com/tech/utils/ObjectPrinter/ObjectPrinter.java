@@ -1,3 +1,5 @@
+package com.tech.utils.ObjectPrinter;
+
 /**
  * Copyright (c) 2012 Salil Walavalkar
  *
